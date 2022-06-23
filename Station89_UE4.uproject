@@ -38,6 +38,10 @@
 		{
 			"Name": "Metasound",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
 		}
 	]
 }
